@@ -1,0 +1,56 @@
+body{
+    background-color: paleturquoise;
+    font-family: 'roboto';
+}
+
+/* color primer titulo*/
+h1{
+    color: red;
+
+    display: flex;
+    justify-content: center;
+}
+
+/*color segundo titulo*/
+#titulo1{
+    color: red;
+
+    display: flex;
+    justify-content: center;
+}
+
+/*color terceros titulos titulo*/
+#titulo2{
+    color: blue;
+
+    display: flex;
+    justify-content: center;
+}
+#titulo3{
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+/* color de parrafos*/
+.parrafo{
+    color: black;
+}
+a,img{
+    display: block;
+}
+/*color link*/
+a{
+    margin: 50px;
+    text-decoration: none;
+    color: green;
+}
+a:hover{
+    color: red;
+}
+p{
+    text-align: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
